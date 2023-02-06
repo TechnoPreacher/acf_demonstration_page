@@ -1,0 +1,15 @@
+{
+    "name": "acf/testimonial_",
+    "title": "Testimonial2",
+    "description": "A 2 custom testimonial block.",
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["testimonial_", "quote"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "testimonial2.php"
+         },
+    "editorScript": "./block.js",
+
+    "align": "full"
+}
